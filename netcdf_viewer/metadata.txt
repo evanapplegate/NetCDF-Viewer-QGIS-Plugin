@@ -1,0 +1,14 @@
+[general]
+name=NetCDF Viewer
+qgisMinimumVersion=3.0
+description=Load and visualize NetCDF (.nc) files with dimension browsing
+version=1.0
+author=Evan Applegate
+email=evandapplegate@gmail.com
+about=This plugin allows users to load NetCDF files, browse dimensions and variables, and create customized visualizations.
+repository=
+tracker=
+homepage=
+category=Raster
+icon=icon.png
+experimental=False
